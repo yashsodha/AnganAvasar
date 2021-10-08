@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "651140905700",
+    "project_id": "anganavsar",
+    "storage_bucket": "anganavsar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651140905700:android:1dd5ae172a935cf618caf1",
+        "android_client_info": {
+          "package_name": "com.anganavsar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651140905700-sqgi14a4ecl1965uq0vhe4r8mbeo8mg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUmNYughtAgdgknOfru27C-xHVUbrnus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651140905700-sqgi14a4ecl1965uq0vhe4r8mbeo8mg8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651140905700-jl43joq8lgaroetocnikclfikloccosj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AnganAvsar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
