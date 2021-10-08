@@ -1,5 +1,5 @@
 import React, { FC, useEffect, useState } from 'react';
-import { Text, View, Image, FlatList, SafeAreaView, ActivityIndicator, TouchableOpacity } from 'react-native';
+import { Text, View, Image, FlatList ,SafeAreaView, ActivityIndicator, TouchableOpacity } from 'react-native';
 import { useDispatch, useSelector } from 'react-redux';
 import { MENU } from '../../constants';
 import {

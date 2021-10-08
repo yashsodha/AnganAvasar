@@ -130,7 +130,10 @@ android {
     ndkVersion rootProject.ext.ndkVersion
 
     compileSdkVersion rootProject.ext.compileSdkVersion
-
+ lintOptions {
+    checkDependencies true
+  }
+  
     defaultConfig {
         applicationId "com.anganavsar"
         minSdkVersion rootProject.ext.minSdkVersion
